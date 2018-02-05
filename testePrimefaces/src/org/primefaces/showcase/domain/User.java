@@ -22,9 +22,13 @@ public class User implements Serializable {
      
     private String phone;
 
+
     private String rg;
     
     private String id;
+
+    private String cpf;
+
 
     public String getFirstname() {
         return firstname;
