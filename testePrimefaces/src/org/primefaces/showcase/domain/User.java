@@ -22,8 +22,6 @@ public class User implements Serializable {
      
     private String phone;
 
-    private String rg;
- 
     public String getFirstname() {
         return firstname;
     }
