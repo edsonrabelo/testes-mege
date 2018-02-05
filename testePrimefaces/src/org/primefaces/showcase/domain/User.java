@@ -22,6 +22,8 @@ public class User implements Serializable {
      
     private String phone;
 
+    private String rg;
+    
     private String id;
 
     public String getFirstname() {
